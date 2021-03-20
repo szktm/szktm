@@ -1,10 +1,11 @@
 ### Hi there 👋
-[![Tomoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=szktm)](https://github.com/szktm/github-readme-stats)
+- 🔭 I’m currently working on a web app that helps to manage volunteer English teachers and migrant worker students for ItsRainingRaincoats!
 
 <!--
 **szktm/szktm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Tomoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=szktm)](https://github.com/szktm/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
