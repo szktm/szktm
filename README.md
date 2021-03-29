@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a web app that helps to manage volunteer English teachers and migrant worker students for ItsRainingRaincoats!
-- I go by szktm on the internet. see you somewhere 
+- Sometimes secretly wish that I was studying a CS degree instead, but past me made the best choice she could at age 18 and present me is trying her best to finish what past me started. (Or maybe it's just sunk cost fallacy)
 <!--
 **szktm/szktm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
